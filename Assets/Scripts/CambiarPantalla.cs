@@ -22,4 +22,11 @@ public class CambiarPantalla : MonoBehaviour
         SceneManager.LoadScene("Formulario");
 
     }
+    public void Reintentar(){
+        SceneManager.LoadScene("Inicio");
+
+    }
+    public void Creditos(){
+        SceneManager.LoadScene("Creditos");
+    }
 }

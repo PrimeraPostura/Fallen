@@ -12,14 +12,23 @@ EditorBuildSettings:
     path: Assets/Scenes/Formulario.unity
     guid: 2520ad53ebadbd14c9a8c66db854c3db
   - enabled: 1
-    path: Assets/Scenes/creditos.unity
+    path: Assets/Scenes/Creditos.unity
     guid: 4068beed8ef8da541ab88236c3cb59d5
   - enabled: 1
-    path: Assets/Scenes/escena1.unity
+    path: Assets/Scenes/Nivel1.unity
     guid: cd27d91f8a1f406489d3b9a9b70657fc
   - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: edddd963906bfdb46be25a4a934eef7b
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: b162cbd3a02ea5844bc68dbc0b2b59dd
+  - enabled: 1
     path: Assets/Scenes/GameOver.unity
-    guid: e2698da6006ab0f42b38da360de31843
+    guid: 7b0143959ae1c064f8a617217f226243
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/puntos.unity
     guid: 655f50a226660c04c88a31a683a2d298

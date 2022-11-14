@@ -27,7 +27,7 @@ public class ValidarUsuario : MonoBehaviour
         //Interger.parseInt("8")
         Edad = byte.Parse(cajaEdad.text);
         if(Edad>=18){
-        SceneManager.LoadScene("escena1");
+        SceneManager.LoadScene("Nivel1");
         }
         else{
             Debug.Log($"Usted es muy chico {Edad}");
